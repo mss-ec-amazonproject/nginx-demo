@@ -5,7 +5,7 @@
 #
 
 # Pull base image.
-FROM dockerfile/ubuntu
+FROM dockerfile/centos
 
 # Install Nginx.
 RUN \
